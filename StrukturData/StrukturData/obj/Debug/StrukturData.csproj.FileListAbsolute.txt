@@ -1,0 +1,5 @@
+E:\STMIK-PERTI ASIA\TUGAS\StrukturData\StrukturData\StrukturData\bin\Debug\StrukturData.exe
+E:\STMIK-PERTI ASIA\TUGAS\StrukturData\StrukturData\StrukturData\bin\Debug\StrukturData.pdb
+E:\STMIK-PERTI ASIA\TUGAS\StrukturData\StrukturData\StrukturData\obj\Debug\StrukturData.csprojResolveAssemblyReference.cache
+E:\STMIK-PERTI ASIA\TUGAS\StrukturData\StrukturData\StrukturData\obj\Debug\StrukturData.exe
+E:\STMIK-PERTI ASIA\TUGAS\StrukturData\StrukturData\StrukturData\obj\Debug\StrukturData.pdb

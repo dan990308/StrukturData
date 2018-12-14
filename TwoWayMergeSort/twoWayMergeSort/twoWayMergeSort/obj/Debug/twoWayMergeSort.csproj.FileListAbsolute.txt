@@ -1,0 +1,5 @@
+E:\STMIK-PERTI ASIA\TUGAS\TwoWayMergeSort\twoWayMergeSort\twoWayMergeSort\bin\Debug\twoWayMergeSort.exe
+E:\STMIK-PERTI ASIA\TUGAS\TwoWayMergeSort\twoWayMergeSort\twoWayMergeSort\bin\Debug\twoWayMergeSort.pdb
+E:\STMIK-PERTI ASIA\TUGAS\TwoWayMergeSort\twoWayMergeSort\twoWayMergeSort\obj\Debug\twoWayMergeSort.csprojResolveAssemblyReference.cache
+E:\STMIK-PERTI ASIA\TUGAS\TwoWayMergeSort\twoWayMergeSort\twoWayMergeSort\obj\Debug\twoWayMergeSort.exe
+E:\STMIK-PERTI ASIA\TUGAS\TwoWayMergeSort\twoWayMergeSort\twoWayMergeSort\obj\Debug\twoWayMergeSort.pdb
